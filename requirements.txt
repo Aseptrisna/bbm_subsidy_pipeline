@@ -1,12 +1,8 @@
 pandas
 numpy
-sqlalchemy[aio]
-asyncpg
-pmdarima
+sqlalchemy
+matplotlib
+statsmodels
 prophet
 tensorflow
 scikit-learn
-openpyxl
-python-dateutil
-tqdm
-loguru
