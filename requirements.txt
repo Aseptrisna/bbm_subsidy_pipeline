@@ -1,0 +1,12 @@
+pandas
+numpy
+sqlalchemy[aio]
+asyncpg
+pmdarima
+prophet
+tensorflow
+scikit-learn
+openpyxl
+python-dateutil
+tqdm
+loguru
